@@ -5,7 +5,8 @@
 Me chamo Cauã Brandão, tenho 19 anos e sou de São José dos Campos. Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP).
 Focado em desenvolvimento back-end, com estudos contínuos em C#, lógica de programação e versionamento com Git e GitHub.
 Mantenho prática diária com exercícios e projetos próprios.
-Busco minha primeira oportunidade em TI para aplicar meus conhecimentos na prática e crescer profissionalmente, tenho mais informações no meu LinkedIn "[cauã-brandão](www.linkedin.com/in/caua-brandao)".
+Busco minha primeira oportunidade em TI para aplicar meus conhecimentos na prática e crescer profissionalmente, tenho mais informações no meu LinkedIn "[cauã-brandão]([www.linkedin.com/in/caua-brandao](https://www.linkedin.com/in/caua-brandao/))".
+Busco minha primeira oportunidade em TI para aplicar meus conhecimentos na prática e crescer profissionalmente, tenho mais informações no meu LinkedIn "[cauã-brandão](https://www.linkedin.com/in/caua-brandao/)".
 
 </a>
     <a href="https://github.com/Caua-Brandao?tab=followers">
