@@ -43,7 +43,7 @@ Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/caua-brandao
 
 ---
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
 * **C# e .NET**
 * **Programação Orientada a Objetos**
@@ -54,7 +54,7 @@ Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/caua-brandao
 
 ---
 
-### 📌 Projetos
+### Projetos
 
 🔹 **C# Exercícios**
 Repositório dedicado à prática contínua de C#, contendo exercícios e implementações desenvolvidos durante meus estudos.
@@ -62,7 +62,9 @@ Repositório dedicado à prática contínua de C#, contendo exercícios e implem
 🔹 **PIM — Projeto Integrado Multidisciplinar**
 Projeto acadêmico desenvolvido durante a graduação, envolvendo desenvolvimento web, banco de dados e organização de software.
 
-> Estou constantemente desenvolvendo novos projetos para consolidar meus conhecimentos e construir meu portfólio.
+🔹 **Chess-Console**
+Estou desenvolvendo um projeto que simula um jogo de xadrez, focado em C# e Programação Orientada a Objetos.
+
 
 ---
 
