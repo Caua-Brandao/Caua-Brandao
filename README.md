@@ -3,14 +3,9 @@
 **`Desenvolvedor Back-end`**
 
 Olá! Me chamo Cauã Brandão, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (UNIP)**.
-
-Atualmente, meu foco está no desenvolvimento **back-end**, com estudos contínuos em **C#, .NET, lógica de programação, Programação Orientada a Objetos, Git e GitHub**.
-
-Mantenho uma rotina constante de estudos, desenvolvendo exercícios e projetos próprios para transformar conhecimento teórico em prática.
-
-🎯 **Objetivo:** conquistar minha primeira oportunidade em TI como desenvolvedor, aplicar meus conhecimentos em projetos reais e evoluir continuamente como profissional.
-
-📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/caua-brandao/).
+Atualmente, meu foco está no desenvolvimento **back-end**, com estudos contínuos em **C#, .NET, Programação Orientada a Objetos, Banco de dados e SQL, Git e GitHub**.
+Atualizo o github diariamente conforme trabalho em projetos pessoais e exercícios de cursos extracurriculares.
+Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/caua-brandao/).
 
 ---
 
