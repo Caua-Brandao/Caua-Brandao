@@ -47,8 +47,7 @@ Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/caua-brandao
 
 * **C# e .NET**
 * **Programação Orientada a Objetos**
-* **Estruturas de dados e lógica de programação**
-* **Banco de dados**
+* **Banco de dados e SQL**
 * **Desenvolvimento Web**
 * **Git e GitHub**
 
